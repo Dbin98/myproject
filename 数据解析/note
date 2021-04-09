@@ -1,0 +1,19 @@
+<div class="thumb">
+<a href="/article/124005513" target="_blank">
+<img src="//pic.qiushibaike.com/system/pictures/12400/124005513/medium/C0Q0C28QA6VX26G9.jpg" alt="糗事#124005513" class="illustration" width="100%" height="auto">
+</a>
+</div>
+
+正则：
+ex = '<div class="thumb">.*?<img src="(.*?)" alt.*?</div>'
+
+xpath:
+    - /:表示从根节点开始
+    - // :作用到最左侧，从任意位置开始定位
+    - 属性定位：//div[@class='']
+    - 索引定位：//div[@class='']/p[1] 索引从1开始
+    - 取文本：
+        - /text() 获取标签中直系的文本内容
+        - //text()获取标签中所有的文本内容
+    - 取属性：
+        /@atttibuteName     ===> img/@src

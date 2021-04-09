@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/中南民族大学/tieba.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/微博/chaohua.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/微博/weibo.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/微博/主题一.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/毕业论文模型代码/fenci.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/毕业论文模型代码/fenci1.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/毕业论文模型代码/mida1分词.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/毕业论文模型代码/mida分词.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/毕业论文模型代码/new_data.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/毕业论文模型代码/民大1分词.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/毕业论文模型代码/民大分词.csv" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/毕业论文爬虫代码/主题一.csv" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
